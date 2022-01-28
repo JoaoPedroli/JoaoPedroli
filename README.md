@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋
+#### Student of ReactJS, React Native and NodeJS. I've programmed in C++, Java and started with Python at 14. I have experience in Linux, MacOS and Windows. Passionate about Mobile and Web Development, Competitive Programming and Entrepreneurship. I also see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
 
-<!--
-**Joao010/Joao010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div>
+  <a href = "mailto:joaopedrocz100@gmail.com
+"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao010&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao010&layout=compact&theme=radical)](https://github.com/Joao010/github-readme-stats)
+<br/><br/>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joao010&theme=redical)](https://github.com/Joao010/github-readme-activity-graph)
+<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao010&theme=dark)](https://github.com/Joao010/github-readme-streak-stats)
+
