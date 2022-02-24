@@ -2,7 +2,7 @@
 #### Student of ReactJS, React Native and NodeJS. I've programmed in C++, Java and started with Python at 14 years old. I have experience in Linux, MacOS and Windows. Passionate about Mobile and Web Development, Competitive Programming and Entrepreneurship. I also see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
 #### Studying Computer Science at FAFIC.
 
-##### email: **joaopedrocz100@gmail.com**
+##### Email: **joaopedrocz100@gmail.com**
 ##### LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/**
 ##### Beecrowd: **https://www.beecrowd.com.br/judge/pt/profile/468716**
 ##### Portfolio Website: *under development...*
