@@ -1,6 +1,6 @@
 ### Hi 👋
 #### Student of ReactJS, React Native and NodeJS. I've programmed in C++, Java and started with Python at 14. I have experience in Linux, MacOS and Windows. Passionate about Mobile and Web Development, Competitive Programming and Entrepreneurship. I also see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
-#### Studying computer science at FAFIC (Faculdade de Filosofia Ciências e Letras de Cajazeiras).
+#### Studying Computer Science at FAFIC (Faculdade de Filosofia Ciências e Letras de Cajazeiras).
 
 ##### email: **joaopedrocz100@gmail.com**
 ##### LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/**
