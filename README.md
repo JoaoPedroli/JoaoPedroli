@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<div width="100%">
+<div width="300">
 |Languages|
 |--|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao010&layout=compact&theme=radical)](https://github.com/Joao010/github-readme-stats)|
