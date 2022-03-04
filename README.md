@@ -7,29 +7,27 @@
 ##### Beecrowd: **https://www.beecrowd.com.br/judge/pt/profile/468716**
 ##### Portfolio Website: *under development...*
 
+<br />
+
+<a href = "mailto:joaopedrocz100@gmail.com">
+  <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/" target="_blank">
+  <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
+<hr/>
 <br/>
 
 <div align="center">
-  <div>
-    <a href = "mailto:joaopedrocz100@gmail.com">
-      <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/" target="_blank">
-      <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </div>
+  
+  | Languages|Streaks|Statistics |
+  |--|--|--|
+  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao010&layout=compact&theme=radical)](https://github.com/Joao010/github-readme-stats)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao010&theme=radical)](https://github.com/Joao010/github-readme-streak-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao010&show_icons=true&theme=radical)|
 
-  <br/><br/>
-
-  |Languages|
-  |--|
-  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao010&layout=compact&theme=radical)](https://github.com/Joao010/github-readme-stats)|
-
-  | Streaks|Statistics |
-  |--|--|
-  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao010&theme=radical)](https://github.com/Joao010/github-readme-streak-stats)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao010&show_icons=true&theme=radical)|
-
-  <br/><br/>
+  <br/>
+  
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Joao010&theme=redical)](https://github.com/Joao010/github-readme-activity-graph)
+  
   <br/><br/>
 </div>
