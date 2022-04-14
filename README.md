@@ -1,5 +1,9 @@
 ### Hi 👋
-#### Student of ReactJS, React Native and NodeJS. I've programmed in C++, Java and started with Python in 2018. I have experience in Linux, MacOS and Windows. Passionate about Mobile and Web Development, Competitive Programming and Entrepreneurship. I also see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
+Student of ReactJS, React Native and NodeJS. I already programmed in Java and started with Python in 2018.
+In parallel, I am also currently studying Algorithms and Data Structure in C++.
+I have experience in Windows, Linux and MacOS. But recently, I chose to use Linux as the default OS, in order to carry out studies on this system.
+Passionate about Mobile/Web development, Algorithms study and competitive programming.
+I see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
 #### Computer Science - FAFIC.
 #### Analysis and Systems Development - IFPB
 
