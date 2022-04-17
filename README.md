@@ -4,7 +4,7 @@ In parallel, I am also currently studying Algorithms and Data Structure in C++.
 I have experience in Windows, Linux and MacOS. But recently, I chose to use Linux as the default OS, in order to carry out studies on this system.
 Passionate about Mobile/Web development, Algorithms study and competitive programming.
 I see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
-#### Analysis and Systems Development - IFPB
+#### 🎓 Analysis and Systems Development - IFPB
 
 ##### Email: **joaopedrocz100@gmail.com**
 ##### LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/**
