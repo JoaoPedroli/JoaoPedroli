@@ -1,7 +1,7 @@
 ### Hi 👋
 Student of ReactJS, React Native and NodeJS. I already programmed in Java and started with Python in 2018.
 In parallel, I am also currently studying Algorithms and Data Structures in C++.
-I have experience in Windows, Linux and MacOS. But recently, I chose to use Linux as the default OS, in order to carry out studies on this system.
+I have experience in Windows, Linux and MacOS.
 Passionate about Mobile/Web development, Algorithms study and competitive programming.
 I see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
 #### 🎓 Analysis and Systems Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
