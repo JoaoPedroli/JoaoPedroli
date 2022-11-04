@@ -4,7 +4,7 @@ In parallel, I am also currently studying Algorithms and Data Structures in C++.
 I have experience in Windows, Linux and MacOS.
 Passionate about Mobile/Web development, Algorithms study and competitive programming.
 I see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
-#### 🎓 Analysis and Systems Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
+#### 🎓 System Analysis and Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
 
 ##### Email: **joaopedrocz100@gmail.com**
 ##### LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/**
