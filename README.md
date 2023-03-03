@@ -1,9 +1,9 @@
 ### Hi 👋
-Student of ReactJS, React Native and NodeJS. I already programmed in Java and started with Python in 2018.
-In parallel, I am also currently studying Algorithms and Data Structures in C++.
-I have experience in Windows, Linux and MacOS.
-Passionate about Mobile/Web development, Algorithms study and competitive programming.
-I see a future in certain technologies like Go, Kotlin and Elixir. And I would invest in them no problem.
+JavaScript/TypeScript student, with experience in frameworks such as ReactJS, React Native, Angular, and NodeJS.
+
+I also have experience in Java and Python (which I started studying in 2018), however, they are not my focus currently.
+
+Additionally, I study Algorithms and Data Structures in C/C++ whenever possible. This expands my experience not only in problem-solving but also in the possible resources available for it.
 #### 🎓 System Analysis and Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
 
 ##### Email: **joaopedrocz100@gmail.com**
