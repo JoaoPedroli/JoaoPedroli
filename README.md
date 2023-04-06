@@ -34,8 +34,5 @@ Additionally, I study Algorithms and Data Structures in C/C++ whenever possible.
   | Statistics|Languages |
   |--|--|
   |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroli&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroli&layout=compact&theme=radical)](https://github.com/Joao010/github-readme-stats)|
-
-  <br/>
   
-  <br/><br/>
 </div>
