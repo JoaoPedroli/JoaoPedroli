@@ -1,5 +1,5 @@
 ### Hi 👋
-JavaScript/TypeScript student, with experience in frameworks such as ReactJS, React Native, Angular, and NodeJS.
+JavaScript/TypeScript student, with experience in technologies such as ReactJS, React Native, Angular, and NodeJS.
 
 I also have experience in Java and Python (which I started studying in 2018), however, they are not my focus currently.
 
