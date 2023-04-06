@@ -37,7 +37,5 @@ Additionally, I study Algorithms and Data Structures in C/C++ whenever possible.
 
   <br/>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoaoPedroli&theme=redical)](https://github.com/Joao010/github-readme-activity-graph)
-  
   <br/><br/>
 </div>
