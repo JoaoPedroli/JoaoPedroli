@@ -9,7 +9,6 @@ Additionally, I study Algorithms and Data Structures in C/C++ whenever possible.
 ##### Email: **joaopedrocz100@gmail.com**
 ##### LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/**
 ##### Beecrowd: **https://www.beecrowd.com.br/judge/pt/profile/498194**
-##### Portfolio Website: *under development...*
 
 <br />
 
