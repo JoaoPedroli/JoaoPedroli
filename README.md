@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm a student of JavaScript/TypeScript, with experience in technologies such as ReactJS, React Native, Angular, and NodeJS.
+I'm an undergraduate student, with experience in technologies such as ReactJS, React Native, Angular, and NodeJS.
 
 I also have experience in Java and Python (which I started studying in 2018), however, they are not my focus currently.
 
