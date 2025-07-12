@@ -1,9 +1,14 @@
-### Hi 👋
-I'm an undergraduate student, with experience in technologies such as ReactJS, React Native, Angular, and NodeJS.
+### Hi guys 👋
 
-I also have experience in Java and Python (which I started studying in 2018), however, they are not my focus currently.
+👋 I'm a Mobile Developer and undergraduate student, passionate about Frontend Development and Creative thinking.
 
-Additionally, I study Algorithms and Data Structures in C/C++ whenever possible. This expands my experience not only in problem-solving but also in the possible resources available for it.
+🧑‍💻 I have Full-Stack experience in JavaScript technologies like React Native, ReactJS, Angular, and NodeJS.
+
+📊📈 Data Science enthusiast.
+
+🧮 Additionally, I study Algorithms and Data Structures in C/C++ whenever possible. This expands my experience not only in problem-solving but also in the possible resources available for it.
+
+---
 #### 🎓 System Analysis and Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
 
 ##### Email: **joaopedrocz100@gmail.com**
