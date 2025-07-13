@@ -1,5 +1,4 @@
 ## Hi guys 👋
-
 👋 I'm a Mobile Developer and undergraduate student, passionate about Frontend Development and Creative thinking.
 
 🧑‍💻 I have Full-Stack experience in JavaScript technologies like React Native, ReactJS, Angular, and NodeJS.
@@ -10,6 +9,8 @@
 
 🎓 System Analysis and Development - IFPB (Federal Institute of Education Science and Technology of Paraíba)
 
+<br>
+
 ## 📩 Contact me:
 <a href = "mailto:joaopedrocz100@gmail.com">
   <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
@@ -17,6 +18,10 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-65559b201/" target="_blank">
   <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
+
+<br>
+<br>
+<br>
 
 ## Statistics 📈
 <div align="center">
