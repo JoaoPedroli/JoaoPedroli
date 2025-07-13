@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## Statistics 📈
+## 📈 Statistics
 <div align="center">
   
   | Statistics|Languages |
